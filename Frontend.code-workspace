@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "Frontend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

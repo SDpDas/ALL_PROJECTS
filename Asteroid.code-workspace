@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "Asteroid"
+		},
+		{
+			"name": "net-ninja-asteroids",
+			"path": "Asteroid/net-ninja-asteroids"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Asteroid"
+	}
+}

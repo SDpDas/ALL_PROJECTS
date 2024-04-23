@@ -1,0 +1,27 @@
+{
+  "name": "js-tutorial",
+  "version": "1.0.0",
+  "description": "Tryna learn Nodejs in this folder and upload the work to git repo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon argument.js"
+  },
+  "author": "Sagardeep Das",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cowsay": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.8",
+    "path": "^0.12.7",
+    "progress": "^2.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Positioning 101</title>
+    <style>
+        .box {
+            width: 300px;
+            height: 300px;
+            border: 5px solid red;
+            position:relative;
+            top: 200px;
+            left: 600px;
+        }
+        .second-box{
+            position:absolute;
+            border:3px solid navy;
+            top:0;
+            right:0;
+            width:50%;
+            height:50%;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="box">
+
+        <div class="second-box">Top right</div>
+
+    </div>
+
+</body>
+
+</html>
